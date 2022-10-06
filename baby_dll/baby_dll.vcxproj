@@ -73,10 +73,12 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <OutDir>.\64bits</OutDir>
     <IntDir>.\64bits\intermediates</IntDir>
+    <TargetName>baby_dll_64_bits</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <OutDir>.\32bits</OutDir>
     <IntDir>.\32bits\intermediates</IntDir>
+    <TargetName>baby_dll_32_bits</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

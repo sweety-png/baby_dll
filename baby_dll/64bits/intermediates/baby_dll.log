@@ -5,4 +5,4 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v17
   Previous IPDB not found, fall back to full compilation.
   All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  baby_dll.vcxproj -> C:\Users\sweety\Desktop\baby_dll\baby_dll\64bits\baby_dll.dll
+  baby_dll.vcxproj -> C:\Users\sweety\Desktop\baby_dll\baby_dll\64bits\baby_dll_64_bits.dll
